@@ -1,10 +1,10 @@
-<div align="center">
-
+<p align="center">
   <img src="./logo.png" alt="gymsolve" width="512">
-
-  **🎮 Fast RL framework with PPO and REINFORCE on Gymnasium ⚡**
-
-</div>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>🎮 Fast RL framework with PPO and REINFORCE on Gymnasium ⚡</strong>
+  <!-- repo-tagline:end -->
+</p>
 
 > [!WARNING]
 > **This repository is archived and no longer maintained.** Development has moved to [rlab](https://github.com/tsilva/rlab), which supersedes gymsolve. Please use rlab for new work.
